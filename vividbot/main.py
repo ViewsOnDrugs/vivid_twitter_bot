@@ -3,7 +3,7 @@ import os
 import time
 from os.path import expanduser
 from dotenv import load_dotenv
-from scibot.telebot import telegram_bot_sendtext
+from vividbot.telebot import telegram_bot_sendtext
 from tabulate import tabulate
 import pandas as pd
 import json
