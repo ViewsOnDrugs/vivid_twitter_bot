@@ -12,7 +12,7 @@ import re
 import ast
 import urllib.request
 
-env_path = expanduser("/Users/fran/.env_VH") # use the env for testing, 2 is the real loggin
+env_path = expanduser("~/.env_VH") # use the env for testing, 2 is the real loggin
 load_dotenv(dotenv_path=env_path, override=True)
 
 
