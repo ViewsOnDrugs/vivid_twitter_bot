@@ -1,0 +1,104 @@
+{
+    "2c-b": {
+        "Beschreibung": "Beschreibung:\n 2C-B ist ein Psychedelikum aus der Klasse der Phenylethylamine, zu der auch das nat\u00fcrlich vorkommende Meskalin geh\u00f6rt.",
+        "tw_length": 8,
+        "Konsumform": "Konsumform:\n Oral \ud83d\udc44 oder nasal \ud83d\udc3d",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: annabis, DXM, Ketamin, Lachgas, MDMA, weitere Psychedelika; \u23ec Verringert: Alkohol, Benzodiazepine, GHB, Serotonin-Wiederaufnahmehemmer; \u2757 Gef\u00e4hrlich: Tramadol, MAO-Hemmer (z.B einige Antidepressiva)",
+        "dose_dict": "+----------------+----------+----------+\n|   Hohe Dosis   | Ab 12 mg | Ab 25 mg |\n| Leichte Dosis  |  1-5 mg  | 5-15 mg  |\n| Mittlere Dosis | 5-12 mg  | 15-25 mg |\n+----------------+----------+----------+",
+        "wirkdauer_dict": "+------------+--------------+---------------+\n|    Peak    | 1-2 Stunden  |  2-3 Stunden  |\n| Wirkdauer  | 2-4 Stunden  |  5-8 Stunden  |\n| W.eintritt | 1-10 Minuten | 30-60 Minuten |\n+------------+--------------+---------------+",
+        "comment": "H\u00f6here Dosierungen k\u00f6nnen die Wirk- und Peakdauer verl\u00e4ngern. Ein gef\u00fcllter Magen kann den Wirkungseintritt merklich verz\u00f6gern, sowie die Intensit\u00e4t verringern.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Aufgrund des engen Dosierungsbereichs und des schnellen Wirkungseintritts ist das Risiko einer \u00dcberdosierung bei nasalem Konsum wesentlich h\u00f6her. Das starke Brennen in der Nase kann zudem den Trip beeinflussen. Beachtung von Set und...",
+        "VIVID Safer-Use Tipps_1": "...Setting f\u00fcr einen angenehmen Trip, genaues Dosieren mit einer passenden Waage, Kristalle gr\u00fcndlich zerkleinern, eigenes Ziehr\u00f6hrchen sowie saubere Ziehfl\u00e4che verwenden, Freund*innen \u00fcber konsumierte Menge informieren, Anwesenheit einer n\u00fcchternen Bezugsperson."
+    },
+    "amphetamin": {
+        "Beschreibung": "Beschreibung:\n Speed / Pepp ist die umgangssprachliche Bezeichnung f\u00fcr den Upper Amphetamin.",
+        "tw_length": 8,
+        "Konsumform": "Konsumform:\n oral \ud83d\udc44 oder nasal \ud83d\udc3d",
+        "Kombinationen_0": "Kombinationen:\n \u23eb Verst\u00e4rkt: MDMA, Lachgas; \u23ec Verringert: Alkohol, Benzodiazepine, GHB, Psychedelika, Dissoziativa, Opioide; \u2757...",
+        "Kombinationen_1": "...Gef\u00e4hrlich: Hoher Alkoholkonsum (Wahrnehmung der Trunkenheit durch Amphetamin unterdr\u00fcckt), DXM, MAO-Hemmer (z. B. einige Antidepressiva), Tramadol",
+        "dose_dict": "+----------------+----------+-------------+\n|   Hohe Dosis   | Ab 40 mg | Ab 25-50 mg |\n| Leichte Dosis  | 5 -20 mg |   5-10 mg   |\n| Mittlere Dosis | 20-40 mg |  10-15 mg   |\n+----------------+----------+-------------+",
+        "wirkdauer_dict": "+------------+--------------+---------------+\n|    Peak    | 1-2 Stunden  |  2-4 Stunden  |\n| Wirkdauer  | 6- 8 Stunden | 8-10 Stunden  |\n| W.eintritt | 1-5 Minuten  | 15-30 Minuten |\n+------------+--------------+---------------+",
+        "comment": "Speed hat einen stark schwankenden Reinheitsgehalt und wird h\u00e4ufig mit verschiedenen Stoffen (\u00fcberwiegend Koffein) gestreckt. Vorsichtig und niedrig dosiert antesten!",
+        "VIVID Safer-Use Tipps": "Safer-Use Tipps:\n Eigenes Ziehr\u00f6hrchen sowie saubere Ziehfl\u00e4che verwenden, Stoff trocknen und gr\u00fcndlich zerkleinern, ausreichend Wasser trinken, Tanzpausen einlegen."
+    },
+    "gbl": {
+        "Beschreibung": "Beschreibung:\n GBL und GHB sind Downer, wobei GBL meistens im Partysetting konsumiert wird und dabei im K\u00f6rper zu GHB verstoffwechselt wird.",
+        "tw_length": 8,
+        "Konsumform": "Konsumform:\n Oral \ud83d\udc44",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: Cannabis; \u23ec Verringert: Psychedelika; \u2757 Gef\u00e4hrlich: Alkohol, Opioide, Benzodiazepine, Dissoziativa",
+        "dose_dict": "+----------------+----------+\n|   Hohe Dosis   | 2.5-4 mL |\n| Leichte Dosis  | 0.3-1 mL |\n| Mittlere Dosis | 1-2.5 mL |\n+----------------+----------+",
+        "wirkdauer_dict": "+------------+---------------+\n|    Peak    | 30-45 Minuten |\n| W.eintritt | 5- 15 Minuten |\n| Wirkdauer  |  1-3 Stunden  |\n+------------+---------------+",
+        "comment": "H\u00f6here Dosierungen k\u00f6nnen die Wirkdauer verl\u00e4ngern.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Nie per Augenma\u00df dosieren, immer Spritze oder Pipetten mit genauer Ma\u00dfeinheit verwenden, Nachdosieren erst nach 60-90 Minuten (Timer stellen). Auch ohne...",
+        "VIVID Safer-Use Tipps_1": "...gef\u00fchlte Wirkung kann noch GHB im K\u00f6rper sein und bei weiterem Konsum zur \u00dcberdosierung f\u00fchren. Um Z\u00e4hne und Rachen zu sch\u00fctzen, sollte GBL nur stark verd\u00fcnnt konsumiert werden."
+    },
+    "ghb": {
+        "Beschreibung": "Beschreibung:\n GBL und GHB sind Downer, wobei GBL meistens im Partysetting konsumiert wird und dabei im K\u00f6rper zu GHB verstoffwechselt wird.",
+        "tw_length": 8,
+        "Konsumform": "Konsumform:\n Oral \ud83d\udc44",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: Cannabis; \u23ec Verringert: Psychedelika; \u2757 Gef\u00e4hrlich: Alkohol, Opioide, Benzodiazepine, Dissoziativa",
+        "dose_dict": "+----------------+------------+\n|   Hohe Dosis   |  1.5-2 mL  |\n| Leichte Dosis  | 0.3-0.9 mL |\n| Mittlere Dosis | 0.9-1.5 mL |\n+----------------+------------+",
+        "wirkdauer_dict": "+------------+---------------+\n|    Peak    | 45-90 Minuten |\n| W.eintritt | 10-20 Minuten |\n| Wirkdauer  |  2-4 Stunden  |\n+------------+---------------+",
+        "comment": "H\u00f6here Dosierungen k\u00f6nnen die Wirkdauer verl\u00e4ngern.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Nie per Augenma\u00df dosieren, immer Spritze oder Pipetten mit genauer Ma\u00dfeinheit verwenden, Nachdosieren erst nach 60-90 Minuten (Timer stellen). Auch ohne...",
+        "VIVID Safer-Use Tipps_1": "...gef\u00fchlte Wirkung kann noch GHB im K\u00f6rper sein und bei weiterem Konsum zur \u00dcberdosierung f\u00fchren. Um Z\u00e4hne und Rachen zu sch\u00fctzen, sollte GBL nur stark verd\u00fcnnt konsumiert werden."
+    },
+    "ketamin": {
+        "Beschreibung": "Beschreibung:\n Ketamin ist ein dissoziatives Narkotikum, welches sowohl in der Tier- als auch Humanmedizin verwendet wird.",
+        "tw_length": 10,
+        "Konsumform": "Konsumform:\n Nasal\ud83d\udc3d oder intraven\u00f6s \ud83d\udc89, seltener auch oral \ud83d\udc44",
+        "Kombinationen_0": "Kombinationen:\n \u23eb Verst\u00e4rkt: Cannabis, Lachgas, MDMA, Psychedelika, Kokain; \u23ec Verringert: Amphetamin; \u2757 Gef\u00e4hrlich: Alkohol, GHB/GBL, Opiate/Opioide, Benzodiazepine,...",
+        "Kombinationen_1": "...Barbiturate; Ketamin selber wirkt nicht atemdepressiv, kann aber in Kombination mit anderen sedierenden Substanzen (siehe gef\u00e4hrlich) die Atmung gef\u00e4hrlich verringern!",
+        "dose_dict": "+----------------+----------+------------+\n|   Hohe Dosis   | Ab 75 mg | Ab 300 mg  |\n| Leichte Dosis  | 10-30 mg | 50-100 mg  |\n| Mittlere Dosis | 30-75 mg | 100-300 mg |\n+----------------+----------+------------+",
+        "wirkdauer_dict": "+------------+----------------+---------------+\n|    Peak    | 30-60 Minuten  | 45-90 Minuten |\n| Wirkdauer  | 1,5- 2 Stunden |  2-4 Stunden  |\n| W.eintritt |  5-10 Minuten  | 15-30 Minuten |\n+------------+----------------+---------------+",
+        "comment_0": "H\u00f6here Dosierungen k\u00f6nnen die Wirkdauer verl\u00e4ngern, das dissoziative Rauscherleben intensivieren und bis zum Verlust des Bewusstseins f\u00fchren. Ketamin kommt in zwei Isomeren...",
+        "comment_1": "...(S-Ketamin, R-Ketamin) vor, die unterschiedlich stark und lang wirken. Diese Isomere k\u00f6nnen getrennt oder als Mischung (Racemat) vorliegen. Vorsichtig und niedrig dosiert antesten.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Eigenes Ziehr\u00f6hrchen sowie saubere Ziehfl\u00e4che verwenden und Kristalle gr\u00fcndlich zerkleinern. Durch die bet\u00e4ubende Wirkung kann es unbemerkt zu Verletzungen kommen. Bei h\u00f6herer Dosierung und...",
+        "VIVID Safer-Use Tipps_1": "...speziell im K-Hole sollte auf freie Atemwege geachtet (ggf. stabile Seitenlage) sowie das Trinken vermieden werden, um Verschlucken zu verringern. Regelm\u00e4\u00dfiger hoher Konsum kann zu Sch\u00e4den an der Blase f\u00fchren."
+    },
+    "kokain": {
+        "Beschreibung": "Beschreibung:\n Kokain ist ein aus dem Cocastrauch gewonnener Upper.",
+        "tw_length": 7,
+        "Konsumform": "Konsumform:\n Nasal \ud83d\udc3d, intraven\u00f6s \ud83d\udc89 oder 'Free Base' geraucht als Crack \ud83c\udf2b",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: Lachgas; \u23ec Verringert: Benzodiazepine, Alkohol, MDMA; \u2757 Gef\u00e4hrlich: Hoher Alkoholkonsum (Wahrnehmung der Trunkenheit durch Kokain unterdr\u00fcckt) Betablocker, DXM, MAO-Hemmer (z. B. einige Antidepressiva), Opioide, Tramadol",
+        "dose_dict": "+----------------+----------+\n|   Hohe Dosis   | Ab 60 mg |\n| Leichte Dosis  | 10-30 mg |\n| Mittlere Dosis | 30-60 mg |\n+----------------+----------+",
+        "wirkdauer_dict": "+------------+---------------+\n|    Peak    | 15-30 Minuten |\n| W.eintritt | 5-15 Minuten  |\n| Wirkdauer  | 30-60 Minuten |\n+------------+---------------+",
+        "comment": "Kokain hat einen stark schwankenden Reinheitsgehalt und wird h\u00e4ufig mit verschiedenen Stoffen gestreckt. Vorsichtig und niedrig dosiert antesten!",
+        "VIVID Safer-Use Tipps": "Safer-Use Tipps:\n Eigenes Ziehr\u00f6hrchen sowie saubere Ziehfl\u00e4che verwenden, Substanz gr\u00fcndlich zerkleinern, ausreichend Wasser trinken, Tanzpausen einlegen."
+    },
+    "lsd": {
+        "Beschreibung": "Beschreibung:\n LSD ist ein Psychedelikum aus der Klasse der Lysergamide und auch bekannt unter dem Namen Acid.",
+        "tw_length": 8,
+        "Konsumform": "Konsumform:\n Oral \ud83d\udc44 oder sublingual \ud83d\udc45",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: Cannabis, Ketamin, Lachgas, MDMA, weitere Psychedelika;\u23ec Verringert: Alkohol, Benzodiazepine, GBL und GHB, MAO-Hemmer, Serotonin-Wiederaufnahmehemmer; \u2757 Gef\u00e4hrlich: Tramadol",
+        "dose_dict": "+----------------+-----------+\n|   Hohe Dosis   | Ab 150 \u00b5g |\n| Leichte Dosis  | 25-75 \u00b5g  |\n| Mittlere Dosis | 75-150 \u00b5g |\n+----------------+-----------+",
+        "wirkdauer_dict": "+------------+---------------------------+\n|    Peak    | 1-2 Stunden / 2-4 Stunden |\n| W.eintritt |       20-60 Minuten       |\n| Wirkdauer  |       8-12 Stunden        |\n+------------+---------------------------+",
+        "comment": "H\u00f6here Dosierungen k\u00f6nnen die Wirk- und Peakdauer verl\u00e4ngern. Ein gef\u00fcllter Magen kann den Wirkungseintritt merklich verz\u00f6gern, sowie die Intensit\u00e4t verringern.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Beachtung von Set und Setting f\u00fcr einen angenehmen Trip, Freund*innen \u00fcber konsumierte Menge informieren, Anwesenheit einer...",
+        "VIVID Safer-Use Tipps_1": "...n\u00fcchternen Bezugsperson. Nehme dir Zeit, deinen Trip zu verarbeiten und die Erfahrungen zu integrieren, bevor du das n\u00e4chste Mal Psychedelika nimmst."
+    },
+    "mdma": {
+        "Beschreibung": "Beschreibung:\n MDMA ist ein Entaktogen, das ein Gef\u00fchl von Verbundenheit erzeugt sowie die eigene Offenheit und Empathie steigert. MDMA ist vor allem unter dem Namen Ecstasy bekannt.",
+        "tw_length": 9,
+        "Konsumform": "Konsumform:\n Oral \ud83d\udc44 oder nasal \ud83d\udc3d",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: Cannabis, Ketamin, Lachgas, Psychedelika; \u23ec Verringert: Alkohol, Benzodiazepine, Serotonin-Wiederaufnahmehemmer; \u2757 Gef\u00e4hrlich: DXM, MAO-Hemmer (z. B. einige Antidepressiva), Tramadol",
+        "dose_dict": "+----------------+----------+------------+\n|   Hohe Dosis   | 65-90 mg | 125-180 mg |\n| Leichte Dosis  | 25\u201340 mg |  50\u201375 mg  |\n| Mittlere Dosis | 40-65 mg | 75-125 mg  |\n+----------------+----------+------------+",
+        "wirkdauer_dict": "+------------+--------------+---------------+\n|    Peak    | 1-2 Stunden  |  2-3 Stunden  |\n| Wirkdauer  | 2-4 Stunden  |  4-6 Stunden  |\n| W.eintritt | 1-10 Minuten | 30-60 Minuten |\n+------------+--------------+---------------+",
+        "comment_0": "H\u00f6here Dosierungen k\u00f6nnen die Wirk- und Peakdauer verl\u00e4ngern. Ein gef\u00fcllter Magen kann den Wirkungseintritt merklich verz\u00f6gern sowie die Intensit\u00e4t verringern....",
+        "comment_1": "...Faustregel: 1,5 mg je kg K\u00f6rpergewicht. Um die Nebenwirkungen beim Nachlegen zu minimieren, empfiehlt es sich, nicht mehr als die H\u00e4lfte der Initialdosis zu konsumieren.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Beachtung von Set und Setting f\u00fcr einen angenehmen Trip, genaues Dosieren mit einer passenden Waage, beim Tanzen ausreichend Wasser trinken, Kristalle gr\u00fcndlich zerkleinern, eigenes Ziehr\u00f6hrchen sowie saubere Ziehfl\u00e4che...",
+        "VIVID Safer-Use Tipps_1": "...verwenden, Freund*innen \u00fcber konsumierte Menge informieren, Anwesenheit einer n\u00fcchternen Bezugsperson. Nach einer Konsumpause von 2-3 Monaten ist davon auszugehen, dass der K\u00f6rper sich erholt hat und eine erneute vollwertige Erfahrung m\u00f6glich ist."
+    },
+    "pilze": {
+        "Beschreibung": "Beschreibung:\n Pilze, auch genannt Magic Mushrooms, sind ein nat\u00fcrlich vorkommendes Psychedelikum. Sie enthalten die Wirkstoffe Psilocybin und Psilocin.",
+        "tw_length": 9,
+        "Konsumform": "Konsumform:\n Oral \ud83d\udc44",
+        "Kombinationen": "Kombinationen:\n \u23eb Verst\u00e4rkt: Cannabis, DXM, Ketamin, Lachgas, MDMA, MAO-Hemmer (z. B. einige Antidepressiva), weitere Psychedelika; \u23ec Verringert: Alkohol, Benzodiazepine, GHB, Serotonin-Wiederaufnahmehemmer; \u2757 Gef\u00e4hrlich: Tramadol",
+        "dose_dict": "+----------------+---------+\n|   Hohe Dosis   | 2,5-5 g |\n| Leichte Dosis  | 0,5-1 g |\n| Mittlere Dosis | 1-2,5 g |\n+----------------+---------+",
+        "wirkdauer_dict": "+------------+---------------------------+\n|    Peak    | 1-2 Stunden / 2\u20133 Stunden |\n| W.eintritt |       20-60 Minuten       |\n| Wirkdauer  |        4-7 Stunden        |\n+------------+---------------------------+",
+        "comment_0": "H\u00f6here Dosierungen k\u00f6nnen die Wirk- und Peakdauer verl\u00e4ngern. Ein gef\u00fcllter Magen kann den Wirkungseintritt merklich verz\u00f6gern sowie die Intensit\u00e4t...",
+        "comment_1": "...verringern. Bei frischen Pilzen erh\u00f6ht sich die Dosis um das Zehnfache. Der Wirkstoffgehalt der Pilze kann abh\u00e4ngig von Art, Herstellung und Lagerung stark variieren.",
+        "VIVID Safer-Use Tipps_0": "Safer-Use Tipps:\n Beachtung von Set und Setting f\u00fcr einen angenehmen Trip, Freund*innen \u00fcber konsumierte Menge informieren, Anwesenheit einer...",
+        "VIVID Safer-Use Tipps_1": "...n\u00fcchternen Bezugsperson. Nimm dir Zeit, deinen Trip zu verarbeiten und die Erfahrungen zu integrieren, bevor du das n\u00e4chste Mal Psychedelika nimmst."
+    }
+}

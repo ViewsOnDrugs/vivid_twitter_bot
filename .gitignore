@@ -1,0 +1,6 @@
+.idea/
+build/
+vivid_twitter_bot.egg-info/
+.ipynb_checkpoint
+*.ipynb
+*/__pycache__/*
