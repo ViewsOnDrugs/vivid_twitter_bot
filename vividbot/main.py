@@ -164,7 +164,7 @@ class IDPrinter(tweepy.StreamingClient):
 {format_substs} 
 
 oder tweete 
-@VIVIDHamburg -info um diese Info zu erhalten
+@VIVIDHamburg -info um diese Nachricht aufzurufen
 """
 
             # Warning: don't reply infinite times to yourself!!
@@ -180,16 +180,13 @@ oder tweete
                     post_thread(to_post_dict[info_subs], tweet_id=answer_id)
 
 
-                elif "info" in info_subs:
+                elif "info" in info_subs and if not str(status.author_id) == "1520821277174517760":         
 
                     client.create_tweet(text=update_status,
                                         in_reply_to_tweet_id=answer_id)
-                    print(answer_id, "info")
+                    print(answer_id, status.author_id,
+                          "info")
                 else:  # add exception when privileges are elevated TODO
-                    #                     if status.user["id"] != 1520821277174517760:
-                    #                         subs_not_found=f"-{info_subs} ist keine gültige Substanz antworte mit -start für mehr Infos"
-                    #                         client.create_tweet(text=subs_not_found,
-                    #                                             in_reply_to_tweet_id=answer_id)
                     print(answer_id, info_subs, substance_list)
                     pass
 
@@ -203,7 +200,7 @@ def listen_stream_and_rt():
     try:
 
         printer.add_rules(tweepy.StreamRule("VIVIDHamburg"))
-        printer.filter()
+        printer.filter(expansions="author_id")
     except Exception as ex:
         # telegram_bot_sendtext(f"ERROR {ex} with: {status}")
         print(f"ERROR {ex}")
@@ -217,3 +214,6 @@ def listen_stream_and_rt():
 if __name__ == "__main__":
 
     listen_stream_and_rt()
+
+    
+    
