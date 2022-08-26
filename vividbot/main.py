@@ -5,6 +5,7 @@ from os.path import expanduser
 from dotenv import load_dotenv
 from vividbot.telebot import telegram_bot_sendtext
 from tabulate import tabulate
+# import pandas as pd
 import json
 from collections import OrderedDict
 import re
@@ -13,6 +14,7 @@ import urllib.request
 
 env_path = expanduser("~/.env_VH") # use the env for testing, 2 is the real loggin
 load_dotenv(dotenv_path=env_path, override=True)
+
 
 client = tweepy.Client(consumer_key=os.getenv("CONSUMER_KEY"),
                        consumer_secret= os.getenv("CONSUMER_SECRET"),
@@ -158,12 +160,11 @@ class IDPrinter(tweepy.StreamingClient):
 
                 answer_id = status.id
 
-            update_status = f"""Für Safer-Use Infos antworte auf diesem Tweet mit: 
+            update_status = f"""Für Safer-Use Infos tweete an @VIVIDHamburg mit einem dieser Substanzen: 
 {format_substs} 
 
-oder
--start
-Tweet @VIVIDHamburg -start für diese Nachricht
+oder tweete 
+@VIVIDHamburg -info um diese Info zu erhalten
 """
 
             # Warning: don't reply infinite times to yourself!!
@@ -179,11 +180,11 @@ Tweet @VIVIDHamburg -start für diese Nachricht
                     post_thread(to_post_dict[info_subs], tweet_id=answer_id)
 
 
-                elif "start" in info_subs:
+                elif "info" in info_subs:
 
                     client.create_tweet(text=update_status,
                                         in_reply_to_tweet_id=answer_id)
-                    print(answer_id, "start")
+                    print(answer_id, "info")
                 else:  # add exception when privileges are elevated TODO
                     #                     if status.user["id"] != 1520821277174517760:
                     #                         subs_not_found=f"-{info_subs} ist keine gültige Substanz antworte mit -start für mehr Infos"
